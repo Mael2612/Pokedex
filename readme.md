@@ -17,14 +17,12 @@ L’objectif est de créer une expérience utilisateur fluide et d’offrir des 
 
 - **Base de données** :  
   - MySQL
-
-- **Frontend** *(à intégrer ultérieurement)* :  
-  - Framework moderne comme React ou Vue.js.  
+ 
 
 ## Installation  
 1. **Cloner le dépôt** : https://github.com/Mael2612/Pokedex.git
    ```bash  
-   git clone <url-du-dépôt>  
+   git clone https://github.com/Mael2612/Pokedex.git
    cd pokedex-numérique  
    ```  
 
