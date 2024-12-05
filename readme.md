@@ -13,7 +13,7 @@ L’objectif est de créer une expérience utilisateur fluide et d’offrir des 
 ## Technologies utilisées  
   - TypeScript  
   - Express.js  
-  - Winston (pour la gestion des logs)  
+  - Winston 
 
 - **Base de données** :  
   - MySQL
@@ -22,7 +22,7 @@ L’objectif est de créer une expérience utilisateur fluide et d’offrir des 
   - Framework moderne comme React ou Vue.js.  
 
 ## Installation  
-1. **Cloner le dépôt** :  
+1. **Cloner le dépôt** : https://github.com/Mael2612/Pokedex.git
    ```bash  
    git clone <url-du-dépôt>  
    cd pokedex-numérique  
